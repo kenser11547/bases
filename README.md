@@ -1,2 +1,2 @@
-# bases
-base para proyectis mvc
+# DEMO MINDEF MVC
+Base para programación MVC con php del Ministerio de la Defensa
